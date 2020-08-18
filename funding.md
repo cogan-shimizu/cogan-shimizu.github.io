@@ -1,9 +1,9 @@
 [Home](index.md) | [CV](CV.md) | [Contact](contact.md) | [Publications](publications.md) | [Activities](activities.md) | [Teaching](teaching.md) | [Funding](funding.md) | [Links](links.md)
 
 ### Research Projects
-* Knowledge Analytics with Semantic Technologies (KAST).
-   Dayton Area Graduate Studies Institute. May 2017 to July 2019.
-   Role: PI.
+* Knowledge Analytics with Semantic Technologies (KAST).\
+   Dayton Area Graduate Studies Institute. May 2017 to July 2019.\
+   Role: PI.\
    Funding: $121,940
 
 ### Fellowships and Scholarships
