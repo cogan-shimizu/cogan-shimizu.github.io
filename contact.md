@@ -1,3 +1,5 @@
+[Home](index.md) | [CV](CV.md) | [Contact](contact.md) | [Publications](publications.md) | [Activities](activities.md) | [Teaching](teaching.md) | [Funding](funding.md) | [Links](links.md)
+
 ### Mail Address
 Dr. Cogan Shimizu
 Department of Computer Science
