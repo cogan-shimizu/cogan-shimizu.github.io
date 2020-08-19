@@ -1,4 +1,4 @@
-[Home](index.md) | [CV](CV.md) | [Contact](contact.md) | [Publications](publications.md) | [Activities](activities.md) | [Teaching](teaching.md) | [Funding](funding.md) | [Links](links.md)
+[Home](index.md) | [CV](shimizu-cv.pdf) | [Contact](contact.md) | [Publications](publications.md) | [Activities](activities.md) | [Teaching](teaching.md) | [Funding](funding.md) | [Links](links.md)
 
 ## Research Community Activities
 
