@@ -1,5 +1,7 @@
 [Home](index.md) | [CV](shimizu-cv.pdf) | [Contact](contact.md) | [Publications](publications.md) | [Activities](activities.md) | [Teaching](teaching.md) | [Funding](funding.md) | [Links](links.md)
 
+## Publications
+
 ### Journal Articles 
 * **The Enslaved Ontology: Peoples of the Historic Slave Trade.**\
    Cogan Shimizu, Pascal Hitzler, Quinn Hirt, Dean Rehberger, Seila Gonzalez Estrecha, Catherine Foley, Alicia M. Sheill, Walter Hawthorne, Jeff Mixter, Ethan Watrall, Ryan Carty, Duncan Tarr\

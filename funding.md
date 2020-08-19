@@ -1,5 +1,7 @@
 [Home](index.md) | [CV](shimizu-cv.pdf) | [Contact](contact.md) | [Publications](publications.md) | [Activities](activities.md) | [Teaching](teaching.md) | [Funding](funding.md) | [Links](links.md)
 
+## Funding
+
 ### Acquired Funding
 * EAGER: Open Science Data in Semantic Web Research
    National Science Foundation. September 2020 to August 2022.\
