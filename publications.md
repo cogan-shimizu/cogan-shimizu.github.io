@@ -1,8 +1,6 @@
 [Home](index.md) | [CV](shimizu-cv.pdf) | [Contact](contact.md) | [Publications](publications.md) | [Activities](activities.md) | [Teaching](teaching.md) | [Funding](funding.md) | [Links](links.md)
 
-### Publications 
-
-#### Journal Articles 
+### Journal Articles 
 * **The Enslaved Ontology: Peoples of the Historic Slave Trade.**\
    Cogan Shimizu, Pascal Hitzler, Quinn Hirt, Dean Rehberger, Seila Gonzalez Estrecha, Catherine Foley, Alicia M. Sheill, Walter Hawthorne, Jeff Mixter, Ethan Watrall, Ryan Carty, Duncan Tarr\
    Journal of Web Semantics, to appear.
@@ -10,7 +8,7 @@
    Cogan Shimizu, Pascal Hitzler, Krzysztof Janowicz\
    Semantic Web 10 (1), 2019, 1--7.
 
-#### Conference Papers 
+### Conference Papers 
 * **Modular Graphical Ontology Engineering Evaluated.**\
    Cogan Shimizu, Karl Hammar, Pascal Hitzler\
    In: Proceedings ESWC 2020, to appear.
@@ -36,7 +34,7 @@
    Cogan Shimizu, Pascal Hitzler, Matthew Horridge\
    In: Eva Blomqvist, Katja Hose, Heiko Paulheim, Agnieszka Lawrynowicz, Fabio Ciravegna, Olaf Hartig (eds.), The Semantic Web: ESWC 2017 Satellite Events, Portoroz, Slovenia, May 28 -- June 1, 2017, Revised Selected PapersLecture Notes in Computer Science volume 10577, Springer, Heidelberg, 2017, pp109-113.
 
-#### Book Contributions 
+### Book Contributions 
 * **Modular Ontology Modeling: A Tutorial.**\
    Cogan Shimizu, Pascal Hitzler, Adila Krisnadhi\
    Book chapter, to appear.
@@ -50,22 +48,22 @@
    Michelle Cheatham, Holly Ferguson, Charles F. Vardeman II, Cogan Shimizu\
    In: Advances in Ontology Design and Patterns [revised and exted versions of the papers presented at the 7th edition of the Workshop on Ontology and Semantic Web Patterns, WOP@ISWC 2016, Kobe, Japan, 18th October 2016], Studies on the Semantic Web Vol32, IOS Press, 2016.
 
-#### Theses 
+### Theses 
 * **Rendering OWL in LaTeX for Improved Readability: Extensions to the OWLAPI.**\
    Cogan Shimizu\
    Thesis, Wright State University, 2017.
 
-#### Edited Books 
+### Edited Books 
 * **Advances in Pattern-based Ontology Engineering.**\
    Eva Blomqvist, Torsten Hahmann, Karl Hammar, Pascal Hitzler, Rinke Hoekstra, Raghava Mutharaju, Maria Poveda, Cogan Shimizu, Martin Skjaeveland, Monika Solanki, Vojtech Svatek, Lu Zhou (eds.)\
    Studies on the Semantic Web, IOS Press, 2021, in preparation.
 
-#### Journal Edited Issues 
+### Journal Edited Issues 
 * **special issue with exted FOIS 2018 papers.**\
    Applied Ontology\
    (S.) Borgo, (P.) Hitzler, (O.) Kutz, (C.) Shimizu (eds.)In preparation.
 
-#### Edited Workshop Proceedings 
+### Edited Workshop Proceedings 
 * **Workshop on the Semantic Web in Practice: Tools and Pedagogy (1st edition) -- PRAXIS 2020.**\
    Cogan Shimizu, Rafael Goncalves, Juan Sequeda, Ruben Verborgh\
    In preparation.
@@ -76,7 +74,7 @@
    Krzysztof Janowicz, Adila Alfa Krisnadhi, Mar\'ia Poveda Villal\'on, Karl Hammar, Cogan Shimizu (eds.)\
    CEUR Workshop Proceedings 2459, CEUR-WS.org, 2019
 
-#### Workshop Contributions 
+### Workshop Contributions 
 * **MODL: a Modular Ontology Design Library.**\
    Cogan Shimizu, Quinn Hirt, Pascal Hitzler\
    In: Krzysztof Janowicz, Adila Alfa Krisnadhi, Mar\'ia Poveda Villal\'on, Karl Hammar, Cogan Shimizu (eds.), Proceedings of the 10th Workshop on Ontology Design and Patterns (WOP 2019) co-located with 18th International Semantic Web Conference (ISWC 2019), Auckland, New Zealand, October 27, 2019CEUR Workshop Proceedings 2459, CEUR-WS.org 2019, pp47-58.
@@ -93,7 +91,7 @@
    Cogan Shimizu, Michelle Cheatham\
    In: Eva Blomqvist, \'Oscar Corcho, Matthew Horridge, David Carral, Rinke Hoekstra (eds.), WOP 2017, WorkShop on Ontology Design and PatternsProceedings of the 8th Workshop on Ontology Design and Patterns co-located with the 16th International Semantic Web Conference (ISWC 2017), Vienna, Austria, October 21, 2017CEUR Workshop Proceedings Vol2043, 2017.
 
-#### Software Demonstrations 
+### Software Demonstrations 
 * **CoModIDE - The Comprehensive Modular Ontology Engineering IDE.**\
    Cogan Shimizu, Karl Hammar\
    Software Demonstration at ISWC 2019, Auckland, New Zealand, October 2019
@@ -104,7 +102,7 @@
    Cogan Shimizu, Pascal Hitzler, Matthew Horridge\
    Software Demonstration at ESWC 2017, Vienna, Austria, October 2017.
 
-#### Project Reports and Deliverables 
+### Project Reports and Deliverables 
 * **The Enslaved Ontology 1.0: People of the Historic Slave Trade.**\
    Cogan Shimizu, Pascal Hitzler, Quinn Hirt, Alicia Sheill, Seila Gonzalez, Catherine Foley, Dean Rehberger, Ethan Watrall, Walter Hawthorne, Duncan Tarr, Ryan Carty, Jeff Mixter\
    Enslaved Project Technical Report, enslaved.org, 8 April 2019.

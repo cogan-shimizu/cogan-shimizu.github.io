@@ -1,7 +1,5 @@
 [Home](index.md) | [CV](shimizu-cv.pdf) | [Contact](contact.md) | [Publications](publications.md) | [Activities](activities.md) | [Teaching](teaching.md) | [Funding](funding.md) | [Links](links.md)
 
-## Teaching
-
 ### Department of Computer Science, Kansas State University
 * _Knowledge Representation for the Semantic Web_. Fall 2020.\
    Co-Instructor.

@@ -1,7 +1,5 @@
 [Home](index.md) | [CV](shimizu-cv.pdf) | [Contact](contact.md) | [Publications](publications.md) | [Activities](activities.md) | [Teaching](teaching.md) | [Funding](funding.md) | [Links](links.md)
 
-## Research Community Activities
-
 ### Workshop Chair/Organiser
 * 1st Workshop on the Semantic Web in Practice: Tools and Pedagogy, PRAXIS 2020, at ISWC 2020, Athens, Greece, November 2020 (general chair).
 * 11th Workshop on Ontology Design and Patterns, WOP 2020, at ISWC 2020, Athens, Greece, November 2020 (Paper co-Chair).
