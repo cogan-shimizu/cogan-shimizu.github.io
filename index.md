@@ -2,6 +2,7 @@
 
 ### Cogan Shimizu
 Postdoctoral Fellow\
+[me!](cogan_shimizu.jpg)\
 [Center for Artificial Intelligence and Data Science (CAIDS)](http://caids.cs.ksu.edu/)\
 [Department of Computer Science](https://www.cs.ksu.edu/)\
 [Carl R. Ice College of Engineering](https://engg.ksu.edu/)\
