@@ -51,6 +51,9 @@
    In: Advances in Ontology Design and Patterns [revised and exted versions of the papers presented at the 7th edition of the Workshop on Ontology and Semantic Web Patterns, WOP@ISWC 2016, Kobe, Japan, 18th October 2016], Studies on the Semantic Web Vol32, IOS Press, 2016.
 
 ### Theses 
+* **Advances in Modular Ontology Engineering: Methodology and Tools.**\
+   Cogan Shimizu\
+   Dissertation, Kansas State University, 2020.
 * **Rendering OWL in LaTeX for Improved Readability: Extensions to the OWLAPI.**\
    Cogan Shimizu\
    Thesis, Wright State University, 2017.
