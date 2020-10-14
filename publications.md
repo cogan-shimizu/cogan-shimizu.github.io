@@ -64,7 +64,7 @@
    Studies on the Semantic Web, IOS Press, 2021, in preparation.
 
 ### Journal Edited Issues 
-* **special issue with exted FOIS 2018 papers.**\
+* **Extended FOIS 2018 papers.**\
    Applied Ontology\
    (S.) Borgo, (P.) Hitzler, (O.) Kutz, (C.) Shimizu (eds.)In preparation.
 
