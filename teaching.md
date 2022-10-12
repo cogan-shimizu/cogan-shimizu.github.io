@@ -6,6 +6,9 @@
 * _Computablity & Complexity_. Fall 2022.\
    Professor.\
    Wright State University.
+* _Introduction to Knowledge Engineering_. Spring 2023.\
+   Professor.\
+   Wright State University.
 
 ### Past Courses
 * _Knowledge Representation for the Semantic Web_. Fall 2020.\
