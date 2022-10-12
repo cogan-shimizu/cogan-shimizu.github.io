@@ -2,21 +2,22 @@
 
 ## Contact Information
 
-### Mail Address
+### Mailing Address
 Dr. Cogan Shimizu\
-Department of Computer Science\
-Kansas State University\
-2184 Engineering Hall\
-1701D Platt St.\
-Manhattan, KS 66506\
+Department of Computer Science and Engineering\
+College of Engineering and Computer Science\
+Wright State University\
+303 Russ Engineering Center\
+3640 Colonel Glenn Hwy.\
+Dayton, OH 45435\
 USA\
-Email: coganmshimizu [at] ksu [dot] edu
+Email: cogan.shimizu [at] wright [dot] edu
 
 ### Office
 Dr. Cogan Shimizu\
-2224Q Engineering Hall\
-1701D Platt St.\
-Manhattan, KS 66506\
+391 Joshi Research Center\
+3640 Colonel Glenn Hwy.\
+Dayton, OH 45435\
 USA\
-Email: coganmshimizu [at] ksu [dot] edu\
-Department phone: 785-532-6350
+Email: cogan.shimizu [at] wright [dot] edu\
+Department phone: 937-777-3728
