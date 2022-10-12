@@ -1,4 +1,4 @@
-[Home](index.md) | [CV](shimizu-cv.pdf) | [Contact](contact.md) | [Publications](publications.md) | [Activities](activities.md) | [Teaching](teaching.md) | [Funding](funding.md) | [Links](links.md)
+[Home](index.md) | [Useful Information](links.md) | [Publications](publications.md) | [Activities](activities.md) | [Teaching](teaching.md) | [Projects](funding.md) | [KASTLE](https://cogan-shimizu.github.io/kastle)
 
 ## Links
 [Data Semantics Laboratory](http://daselab.org/)
