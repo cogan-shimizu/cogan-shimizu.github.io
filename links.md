@@ -22,6 +22,13 @@ USA\
 Email: cogan.shimizu [at] wright [dot] edu\
 Department phone: 937-777-3728
 
+### Laboratory Space
+Knowledge and Semantic Technologies Laboratory\
+390 Joshi Research Center\
+3640 Colonel Glenn Hwy.\
+Dayton, OH 45435\
+USA
+
 ## Useful Links
 [Knowledge and Semantic Technologies Laboratory](https://cogan-shimizu.github.io/kastle)
 
