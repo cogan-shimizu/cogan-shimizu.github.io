@@ -1,6 +1,8 @@
 [Home](index.md) | [Useful Information](links.md) | [Publications](publications.md) | [Activities](activities.md) | [Teaching](teaching.md) | [Projects](funding.md) | [KASTLE](https://cogan-shimizu.github.io/kastle)
 
-## Contact Information
+### Contact Information
+Email: cogan.shimizu [at] wright [dot] edu\
+Phone: 937-777-3728
 
 ### Mailing Address
 Dr. Cogan Shimizu\
@@ -10,24 +12,20 @@ Wright State University\
 303 Russ Engineering Center\
 3640 Colonel Glenn Hwy.\
 Dayton, OH 45435\
-USA\
-Email: cogan.shimizu [at] wright [dot] edu
+USA
 
 ### Office
 Dr. Cogan Shimizu\
-391 Joshi Research Center\
-3640 Colonel Glenn Hwy.\
-Dayton, OH 45435\
-USA\
-Email: cogan.shimizu [at] wright [dot] edu\
-Department phone: 937-777-3728
+391 Joshi Research Center
 
 ### Laboratory Space
 Knowledge and Semantic Technologies Laboratory\
-390 Joshi Research Center\
-3640 Colonel Glenn Hwy.\
-Dayton, OH 45435\
-USA
+390 Joshi Research Center
+
+### Web Presence
+* DBLP: <https://dblp.uni-trier.de/pid/208/4077.html>
+* Google Scholar: <https://scholar.google.com/citations?user=PlBF5eQAAAAJ&hl=en>
+* Lab Website: <https://daselab.cs.ksu.edu/people/cogan-shimizu>
 
 ## Useful Links
 [Knowledge and Semantic Technologies Laboratory](https://cogan-shimizu.github.io/kastle)
@@ -42,9 +40,3 @@ USA
 
 [Modular Ontology Engineering](https://daselab.cs.ksu.edu/content/modular-ontology-engineering-portal)
 
-## Web Presence
-DBLP: <https://dblp.uni-trier.de/pid/208/4077.html>
-
-Google Scholar: <https://scholar.google.com/citations?user=PlBF5eQAAAAJ&hl=en>
-
-Lab Website: <https://daselab.cs.ksu.edu/people/cogan-shimizu>
