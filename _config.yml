@@ -1,3 +1,11 @@
 theme: minima
 title: Dr. Cogan Shimizu
 show_downloads: false
+minima:
+  skin: solarized-light
+  header_pages:
+  - index.md
+  - links.md
+  - publications.md
+  - activities.md
+  - funding.md
