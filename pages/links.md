@@ -1,5 +1,3 @@
-[Home](index.md) | [Useful Information](links.md) | [Publications](publications.md) | [Activities](activities.md) | [Teaching](teaching.md) | [Projects](funding.md) | [KASTLE](https://cogan-shimizu.github.io/kastle)
-
 ### Contact Information
 Email: cogan.shimizu [at] wright [dot] edu\
 Phone: 937-777-3728

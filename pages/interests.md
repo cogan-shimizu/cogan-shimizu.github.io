@@ -1,5 +1,5 @@
 ### Main Academic Interests
-My interests vary from theory to applications:
+My interests vary from theory to application:
 
 * Semantic Web
 * Linked Data
