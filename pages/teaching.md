@@ -1,16 +1,20 @@
-[Home](index.md) | [Useful Information](links.md) | [Publications](publications.md) | [Activities](activities.md) | [Teaching](teaching.md) | [Projects](funding.md) | [KASTLE](https://cogan-shimizu.github.io/kastle)
-
 ## Teaching
 
 ## Current
-* _Computablity & Complexity_. Fall 2022.\
+* _Introduction to Knowledge Engineering_. Spring 2023.\
    Professor.\
    Wright State University.
-* _Introduction to Knowledge Engineering_. Spring 2023.\
+* _Computablity & Complexity_. Fall 2023.\
+   Professor.\
+   Wright State University.
+* _Introduction to Knowledge Engineering_. Fall 2023.\
    Professor.\
    Wright State University.
 
 ### Past Courses
+* _Computablity & Complexity_. Fall 2022.\
+   Professor.\
+   Wright State University.
 * _Knowledge Representation for the Semantic Web_. Fall 2020.\
    Co-Instructor.\
    Kansas State University.
