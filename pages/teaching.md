@@ -10,6 +10,12 @@
 * _Introduction to Knowledge Engineering_. Fall 2023.\
    Professor.\
    Wright State University.
+* _Advanced Topics in the Semantic Web_. Spring 2024.\
+   Professor.\
+   Wright State University.
+* _Neurosymbolic Integration_. Spring 2024.\
+   Professor.\
+   Wright State University.
 
 ### Past Courses
 * _Computablity & Complexity_. Fall 2022.\
