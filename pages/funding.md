@@ -1,8 +1,12 @@
 ## Funding
 
 ### Acquired Funding
+* A1: KnowWhereGraph: Enriching and Linking Cross-Domain Knowledge Graphs using Spatially-Explicit AI Technologies.\
+   National Science Foundation, September 2020 to August 2023.\
+   Role: PI @ Wright State (2022-).
+   Funding: $85,578
 * EAGER: Open Science Data in Semantic Web Research
-   National Science Foundation. September 2020 to August 2022.\
+   National Science Foundation. September 2020 to August 2023.\
    Role: Co-PI, main proposal author.\
    Funding: $299,729
 * Modular Ontology Modeling for Food Supply Chains.\
@@ -24,7 +28,7 @@
 ### Further Project Involvement
 * A1: KnowWhereGraph: Enriching and Linking Cross-Domain Knowledge Graphs using Spatially-Explicit AI Technologies.\
    National Science Foundation, September 2020 to August 2022.\
-   Role: Postdoctoral Researcher.
+   Role: Postdoctoral Researcher (2020-2023).
 * Convergence Accelerator Phase I (RAISE): Spatially-Explicit Models, Methods, and Services for Open Knowledge Networks.
    National Science Foundation, September 2019 to May 2020.\
    Role: Researcher.
