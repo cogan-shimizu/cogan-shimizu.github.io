@@ -1,5 +1,8 @@
 theme: minima
 title: Dr. Cogan Shimizu
+author:
+  name: cogan-shimizu
+
 show_downloads: false
 minima:
   skin: solarized-light
