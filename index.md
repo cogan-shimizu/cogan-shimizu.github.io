@@ -1,4 +1,4 @@
-![me!](./assets/images/cogan_shimizu.jpg)\
+![me!](./assets/images/shimizu-wsu.jpg)\
 Assistant Professor\
 [Knowledge and Semantic Technologies Laboratory](https://cogan-shimizu.github.io/kastle)
 [Department of Computer Science & Engineering](https://engineering-computer-science.wright.edu/computer-science-and-engineering)\
