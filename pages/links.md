@@ -21,20 +21,19 @@ Knowledge and Semantic Technologies Laboratory\
 390 Joshi Research Center
 
 ### Web Presence
-* DBLP: <https://dblp.uni-trier.de/pid/208/4077.html>
-* Google Scholar: <https://scholar.google.com/citations?user=PlBF5eQAAAAJ&hl=en>
-* Lab Website: <https://daselab.cs.ksu.edu/people/cogan-shimizu>
+* [DBLP](https://dblp.uni-trier.de/pid/208/4077.html)
+* [Google Scholar](https://scholar.google.com/citations?user=PlBF5eQAAAAJ&hl=en)
 
 ## Useful Links
-[Knowledge and Semantic Technologies Laboratory](https://cogan-shimizu.github.io/kastle)
+### Labs
+* [Knowledge and Semantic Technologies Laboratory](https://kastle-lab.github.io/)
+* [Data Semantics Laboratory](http://daselab.org/)
+### Resources
+* [The Comprehensive Modular Ontology Integrated Development Environment](https://comodide.com/)
+* [Ontology Design Patterns Portal](http://ontologydesignpatterns.org/)
+* [Modular Ontology Engineering](https://daselab.cs.ksu.edu/content/modular-ontology-engineering-portal)
+### Events
+* [U.S. Semantic Technologies Symposium](https://us2ts.org/)
 
-[Data Semantics Laboratory](http://daselab.org/)
 
-[The Comprehensive Modular Ontology Integrated Development Environment](https://comodide.com/)
-
-[U.S. Semantic Technologies Symposium](https://us2ts.org/)
-
-[Ontology Design Patterns Portal](http://ontologydesignpatterns.org/)
-
-[Modular Ontology Engineering](https://daselab.cs.ksu.edu/content/modular-ontology-engineering-portal)
 
