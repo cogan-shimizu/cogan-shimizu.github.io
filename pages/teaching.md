@@ -1,7 +1,8 @@
 ## Teaching
-
-## Current
-* _Introduction to Knowledge Engineering_. Spring 2023.\
+* _Neurosymbolic Integration_. Spring 2024.\
+   Professor.\
+   Wright State University.
+* _Introduction to Software Engineering_. Spring 2024.\
    Professor.\
    Wright State University.
 * _Computablity & Complexity_. Fall 2023.\
@@ -10,14 +11,9 @@
 * _Introduction to Knowledge Engineering_. Fall 2023.\
    Professor.\
    Wright State University.
-* _Advanced Topics in the Semantic Web_. Spring 2024.\
+* _Introduction to Knowledge Engineering_. Spring 2023.\
    Professor.\
    Wright State University.
-* _Neurosymbolic Integration_. Spring 2024.\
-   Professor.\
-   Wright State University.
-
-### Past Courses
 * _Computablity & Complexity_. Fall 2022.\
    Professor.\
    Wright State University.
