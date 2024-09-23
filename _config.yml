@@ -1,15 +1,11 @@
-theme: minima
 title: Dr. Cogan Shimizu
 author:
   name: cogan-shimizu
 
+logo: assets/images/shimizu-wsu.jpg
+
 show_downloads: false
-minima:
-  skin: solarized-light
-  header_pages:
-  - index.md
-  - links.md
-  - publications.md
-  - activities.md
-  - funding.md
-  - cv.md
+
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+    - jekyll-remote-theme
